@@ -42,8 +42,8 @@
 ...and more!
 
 ## 💼🔭 Projects & Plans
-#### [🎓 QUÉtudes-info: Guide to CEGEP](https://github.com/cw118/quetudesinfo) — my first website and large-scale coding project
-*Don't know what a CEGEP is? [Visit the site to find out](https://cw118.github.io/quetudesinfo/)* 😊
+#### <a href="https://github.com/cw118/quetudesinfo" target="_blank">🎓 QUÉtudes-info: Guide to CEGEP</a> — my first website and large-scale coding project
+*Don't know what a CEGEP is?* <a href="https://cw118.github.io/quetudesinfo/" target="_blank">*Visit the site to find out* 😊</a> 
 - Responsive website made with `HTML, CSS, and JavaScript`, hosted by ![](https://img.shields.io/badge/GitHub_Pages-informational?style=flat&logo=github&logoColor=white&color=1a1a1a&logoWidth=16)
 - Independently completed all research, design and code
 - Site updates continue as colleges post new information
