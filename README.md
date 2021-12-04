@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carolyn
 
-[![Header image for profile readme](https://raw.githubusercontent.com/cw118/<OWNER>/<OWNER>/readme_header.png "Header image for profile readme")]
+[![Header image for profile readme](https://raw.githubusercontent.com/cw118/cw118/main/readme_header.png "Header image for profile readme")]
 
 #### Hey there! My name's Carolyn 🤗 – I'm a self-taught programmer and currently a high school student. I love pretty much anything to do with STEM and problem-solving.
 🎓 A bit more about me: I enjoy **learning new things, helping others, coding** (obviously), and occasionally **playing around with designs** (like my profile picture and this README's header). Aside from programming, I also have some experience in robotics, as well as 2D and 3D design.
