@@ -16,6 +16,9 @@
 📌 *Other things I like: music, languages, figure skating*
 
 ## 💻 Tech & Skill Stack
+<details>
+  <summary>What I've self-studied so far 📚</summary>
+  
 - ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a&logoWidth=18)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a&logoWidth=18)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a&logoWidth=18)
@@ -28,8 +31,13 @@
 
 - ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0078d7&logoWidth=18)
 ![](https://img.shields.io/badge/Basic_computer--aided_design-AutoCAD-informational?style=flat&logo=autodesk&logoColor=white&color=0078d7&logoWidth=18)
+  
+</details>
 
-## 🌱 What I'm learning:
+## 🌱 What I'm learning: 
+<details>
+  <summary>Always learning, always growing ✨</summary>
+
 - ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=success&logoWidth=18)
 ![](https://img.shields.io/badge/Frontend-ReactJS-informational?style=flat&logo=react&logoColor=white&color=success&logoWidth=18)
 ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=success&logoWidth=18)
@@ -40,8 +48,13 @@
 - ![](https://img.shields.io/badge/Software-Figma-informational?style=flat&logo=figma&logoColor=white&color=ff69b4&logoWidth=18)
 
 ...and more!
+  
+</details>
 
 ## 💼🔭 Projects & Plans
+<details>
+  <summary>What I'm up to 👀</summary>
+
 #### <a href="https://github.com/cw118/quetudesinfo" target="_blank">🎓 QUÉtudes-info: Guide to CEGEP</a> — my first website and large-scale coding project
 *Don't know what a CEGEP is?* <a href="https://cw118.github.io/quetudesinfo/" target="_blank">*Visit the site to find out* 😊</a> 
 - Responsive website made with `HTML, CSS, and JavaScript`, hosted by ![](https://img.shields.io/badge/GitHub_Pages-informational?style=flat&logo=github&logoColor=white&color=1a1a1a&logoWidth=16)
@@ -53,4 +66,8 @@
 - Trying out wireframing and prototyping with `Figma`
 
 #### Hackathons, workshops, mini-projects...
-- ✨ Always learning, always growing: working on my portfolio, contributing to the coding community, gaining and training skills and my problem-solving/computational logic
+- Working on my portfolio and fun side projects
+- Contributing to the coding community—getting involved in open source
+- Gaining + training skills and my problem-solving/computational logic
+
+</details>
