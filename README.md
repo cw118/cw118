@@ -1,17 +1,9 @@
 # 👋 Hi, I'm Carolyn
 
-![Header image for profile readme](https://github.com/cw118/cw118/raw/main/readme_header.png)
+![Header image for profile readme](readme_header.png)
 
 ### Hey there! My name's Carolyn 🤗 – I'm a self-taught programmer and currently a high school student. I love pretty much anything to do with STEM and problem-solving.
 🎓 A bit more about me: I enjoy **learning new things, helping others, coding** (obviously), and occasionally **playing around with designs** (like my profile picture and this README's header). Aside from programming, I also have some experience in robotics, as well as 2D and 3D design.
-
-<!--
-✅ Curious and eager to improve
-
-✅ Passionate
-
-✅ Hard-working
--->
 
 📌 *Other things I like: music, languages, figure skating*
 
@@ -28,9 +20,13 @@
 ![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=ff9933&logoWidth=18)
 ![](https://img.shields.io/badge/Frontend-CSS-informational?style=flat&logo=css3&logoColor=white&color=ff9933&logoWidth=18)
 ![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ff9933&logoWidth=18)
+  
+- ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=yellow&logoWidth=18)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=yellow&logoWidth=18)
 
 - ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0078d7&logoWidth=18)
 ![](https://img.shields.io/badge/Basic_computer--aided_design-AutoCAD-informational?style=flat&logo=autodesk&logoColor=white&color=0078d7&logoWidth=18)
+![](https://img.shields.io/badge/Software-Canva-informational?style=flat&logo=Canva&logoColor=white&color=0078d7&logoWidth=18)
   
 </details>
 
@@ -43,7 +39,6 @@
 ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=success&logoWidth=18)
 
 - ![](https://img.shields.io/badge/Database/Tool-Microsoft_SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=yellow&logoWidth=18)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=yellow&logoWidth=18)
 
 - ![](https://img.shields.io/badge/Software-Figma-informational?style=flat&logo=figma&logoColor=white&color=ff69b4&logoWidth=18)
 
@@ -55,8 +50,8 @@
 <details>
   <summary>What I'm up to 👀</summary>
 
-#### <a href="https://github.com/cw118/quetudesinfo" target="_blank">🎓 QUÉtudes-info: Guide to CEGEP</a> — my first website and large-scale coding project
-*Don't know what a CEGEP is?* <a href="https://cw118.github.io/quetudesinfo/" target="_blank">*Visit the site to find out* 😊</a> 
+#### [🎓 QUÉtudes-info: Guide to CEGEP](https://github.com/cw118/quetudesinfo) — my first website and large-scale coding project
+*Don't know what a CEGEP is?* [Visit the site to find out 😊](https://cw118.github.io/quetudesinfo/)
 - Responsive website made with `HTML, CSS, and JavaScript`, hosted by ![](https://img.shields.io/badge/GitHub_Pages-informational?style=flat&logo=github&logoColor=white&color=1a1a1a&logoWidth=16)
 - Independently completed all research, design and code
 - Site updates continue as colleges post new information
@@ -67,7 +62,8 @@
 
 #### Hackathons, workshops, mini-projects...
 - Working on my portfolio and fun side projects
-- Contributing to the coding community—getting involved in open source
-- Gaining + training skills and my problem-solving/computational logic
+- Contributing to the coding community — getting involved in open source
+  - I've recently been helping out with **MDN Web Docs** (both [English content](https://github.com/mdn/content) and [translated content](https://github.com/mdn/translated-content))
+- Gaining + training skills and my problem-solving/computational logic (have a look at some of my [repositories](https://github.com/cw118?tab=repositories)!)
 
 </details>
