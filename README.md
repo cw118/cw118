@@ -24,7 +24,7 @@
 <code><img height="40" alt="CSS" src="assets/icons/css.jpg" title="CSS"></code>
 <code><img height="40" alt="The Bootstrap framework" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="Bootstrap"></code>
 <code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
-<code><img height="40" alt="GitHub" src="assets/icons/Github-Mark.jpg" title="GitHub"></code>
+<code><img height="40" alt="GitHub" src="assets/icons/GitHub-Mark.jpg" title="GitHub"></code>
 <code><img height="40" alt="Visual Studio Code" src="assets/icons/vscode.jpg" title="VS Code"></code>
 <code><img height="40" alt="AutoCAD" src="assets/icons/autocad.png" title="AutoCAD"></code>
 <code><img height="40" alt="Canva" src="assets/icons/canva.png" title="Canva"></code>
