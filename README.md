@@ -11,23 +11,23 @@
 ### I'm a self-taught programmer, a high school student (for now), and I love pretty much anything to do with STEM and problem-solving.
 📚 I enjoy **learning new things, helping others, coding** (obviously), and occasionally **playing around with designs** (like my profile picture and header). Aside from programming, I also have experience in robotics, as well as 2D and 3D design.
 
-💬 *Some more interests of mine: music, languages, figure skating*
+💬 *Other things I love: music, languages, figure skating*
 
 ## 💻 Tech & Skill Stack
 
-<code><img height="40" alt="The C programming language" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" title="C"></code>
-<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
-<code><img height="40" alt="The Flask framework" src="assets/icons/flask.png" title="Flask"></code>
-<code><img height="40" alt="SQL" src="assets/icons/sql.jpg" title="SQL"></code>
-<code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
-<code><img height="40" alt="HTML" src="assets/icons/html.png" title="HTML"></code>
-<code><img height="40" alt="CSS" src="assets/icons/css.jpg" title="CSS"></code>
-<code><img height="40" alt="The Bootstrap framework" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="Bootstrap"></code>
-<code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
-<code><img height="40" alt="GitHub" src="assets/icons/GitHub-Mark.jpg" title="GitHub"></code>
-<code><img height="40" alt="Visual Studio Code" src="assets/icons/vscode.jpg" title="VS Code"></code>
+<code><img height="40" alt="The C programming language" src="assets/icons/c.svg" title="C"></code>
+<code><img height="40" alt="Python" src="assets/icons/python.svg" title="Python"></code>
+<code><img height="40" alt="The Flask framework" src="assets/icons/flask.svg" title="Flask"></code>
+<code><img height="40" alt="SQL" src="assets/icons/sql.svg" title="SQL"></code>
+<code><img height="40" alt="JavaScript" src="assets/icons/javascript.svg" title="JavaScript"></code>
+<code><img height="40" alt="HTML" src="assets/icons/html.svg" title="HTML"></code>
+<code><img height="40" alt="CSS" src="assets/icons/css.svg" title="CSS"></code>
+<code><img height="40" alt="The Bootstrap framework" src="assets/icons/bootstrap.svg" title="Bootstrap"></code>
+<code><img height="40" alt="Git" src="assets/icons/git.svg" title="Git"></code>
+<code><img height="40" alt="GitHub" src="assets/icons/GitHub-Mark.svg" title="GitHub"></code>
+<code><img height="40" alt="Visual Studio Code" src="assets/icons/vscode.svg" title="VS Code"></code>
 <code><img height="40" alt="AutoCAD" src="assets/icons/autocad.png" title="AutoCAD"></code>
-<code><img height="40" alt="Canva" src="assets/icons/canva.png" title="Canva"></code>
+<code><img height="40" alt="Canva" src="assets/icons/canva.svg" title="Canva"></code>
 
 ## 🌱 What I'm learning
 
@@ -38,6 +38,7 @@
 ![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-informational?style=flat&logo=react&logoColor=white&color=0078d7&logoWidth=18)
 ![NodeJS](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=0078d7&logoWidth=18)
 ![Android Studio](https://img.shields.io/badge/Mobile/Tool-Android_Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=yellow&logoWidth=18)
+![Firebase](https://img.shields.io/badge/Server/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=yellow&logoWidth=18)
 ![Microsoft SQL Server](https://img.shields.io/badge/Database/Tool-Microsoft_SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=yellow&logoWidth=18)
 ![Figma](https://img.shields.io/badge/Software-Figma-informational?style=flat&logo=figma&logoColor=white&color=ff69b4&logoWidth=18)
 
@@ -59,7 +60,7 @@
 - Now learning `React`, `Netlify`, some `Node` and possibly `Sass` to develop my personal site
 - Trying out wireframing and prototyping with `Figma`
 
-#### 📌 Hackathons, workshops, mini-projects...
+#### 📌 Hackathons, workshops, coding challenges...
 - Working on my portfolio and fun side projects
 - Contributing to the coding community — getting involved in open source
   - I've recently been helping out with **MDN Web Docs** (both [English content](https://github.com/mdn/content) and [translated content](https://github.com/mdn/translated-content))
