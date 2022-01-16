@@ -29,16 +29,25 @@
 <code><img height="40" alt="AutoCAD" src="assets/icons/autocad.png" title="AutoCAD"></code>
 <code><img height="40" alt="Canva" src="assets/icons/canva.svg" title="Canva"></code>
 
+<details>
+  <summary>My stats:</summary><br>
+  
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cw118&show_icons=true&theme=material-palenight)
+  
+  ![My profile views](https://komarev.com/ghpvc/?username=cw118)
+  
+</details>
+
 ## 🌱 What I'm learning
 
 ✨ *Always learning, always growing* — here's what I'm learning, what I'd like to try out or would have to brush up on:
 
 ![C plus plus](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=success&logoWidth=18)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=success&logoWidth=18)
+![Flutter](https://img.shields.io/badge/Mobile_apps-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=success&logoWidth=18)
+![Dart](https://img.shields.io/badge/Code/Mobile-Dart-informational?style=flat&logo=dart&logoColor=white&color=success&logoWidth=18)
 ![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-informational?style=flat&logo=react&logoColor=white&color=0078d7&logoWidth=18)
 ![NodeJS](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=0078d7&logoWidth=18)
 ![Android Studio](https://img.shields.io/badge/Mobile/Tool-Android_Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=yellow&logoWidth=18)
-![Firebase](https://img.shields.io/badge/Server/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=yellow&logoWidth=18)
 ![Microsoft SQL Server](https://img.shields.io/badge/Database/Tool-Microsoft_SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=yellow&logoWidth=18)
 ![Figma](https://img.shields.io/badge/Software-Figma-informational?style=flat&logo=figma&logoColor=white&color=ff69b4&logoWidth=18)
 
