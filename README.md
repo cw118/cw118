@@ -23,6 +23,7 @@
 <code><img height="40" alt="HTML" src="assets/icons/html.svg" title="HTML"></code>
 <code><img height="40" alt="CSS" src="assets/icons/css.svg" title="CSS"></code>
 <code><img height="40" alt="The Bootstrap framework" src="assets/icons/bootstrap.svg" title="Bootstrap"></code>
+<code><img height="40" alt="Tailwind CSS framework" src="assets/icons/tailwindcss.svg" title="Tailwind CSS"></code>
 <code><img height="40" alt="Git" src="assets/icons/git.svg" title="Git"></code>
 <code><img height="40" alt="GitHub" src="assets/icons/GitHub-Mark.svg" title="GitHub"></code>
 <code><img height="40" alt="Visual Studio Code" src="assets/icons/vscode.svg" title="VS Code"></code>
@@ -30,7 +31,7 @@
 <code><img height="40" alt="Canva" src="assets/icons/canva.svg" title="Canva"></code>
 
 <details>
-  <summary>My stats:</summary><br>
+  <summary><em><strong>My stats:</strong></em></summary><br>
   
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cw118&show_icons=true&theme=material-palenight)
   
@@ -66,13 +67,13 @@
 - Site updates continue as colleges post new information
 
 #### 👩‍💻 Personal website (in-progress) — my first React app
-- Now learning `React`, `Netlify`, some `Node` and possibly `Sass` to develop my personal site
+- Now learning `React`, `Vercel`, some `Node` and possibly `Sass` to develop my personal site
 - Trying out wireframing and prototyping with `Figma`
 
 #### 📌 Hackathons, workshops, coding challenges...
 - Working on my portfolio and fun side projects
 - Contributing to the coding community — getting involved in open source
-  - I've recently been helping out with **MDN Web Docs** (both [English content](https://github.com/mdn/content) and [translated content](https://github.com/mdn/translated-content))
+  - I've recently been helping out with **MDN Web Docs** (primarily [English content](https://github.com/mdn/content) and [translated content](https://github.com/mdn/translated-content))
 - Picking up new skills, mastering what I know and training my problem-solving/computational logic (have a look at some of my [repositories](https://github.com/cw118?tab=repositories)!)
 
 </details>
