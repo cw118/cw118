@@ -33,7 +33,7 @@
 <details>
   <summary><em><strong>My stats:</strong></em></summary><br>
   
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cw118&show_icons=true&theme=material-palenight)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cw118&show_icons=true&count_private=true&include_all_commits=true&custom_title=Carolyn's&nbsp;GitHub&nbsp;Stats&theme=material-palenight)
   
   ![My profile views](https://komarev.com/ghpvc/?username=cw118)
   
