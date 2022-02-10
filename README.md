@@ -1,4 +1,4 @@
-# <img height="30px" alt="GIF of waving hand" src="assets/handwave.gif"> Hi, I'm Carolyn
+# <a href="#"><img height="30px" alt="GIF of waving hand" src="assets/handwave.gif"></a> Hi, I'm Carolyn
 
 [![Header image for profile](assets/readme_header.png)](#)
 
@@ -6,7 +6,7 @@
 
 ### Hey there!
 
-#### (*...or* Salut / 哈囉 / Привет 😊)
+#### (*or...* Salut / 哈囉 / Привет 😊)
 
 ### I'm a self-taught programmer, a high school student (for now), and I love pretty much anything to do with STEM and problem-solving.
 
