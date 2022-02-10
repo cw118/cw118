@@ -64,18 +64,20 @@
 #### [🎓 QUÉtudes-info: Guide to CEGEP](https://github.com/cw118/quetudesinfo) — my first website and large-scale coding project
 
 *Don't know what a CEGEP is?* [Visit the site to find out 😊](https://cw118.github.io/quetudesinfo/)
-- Responsive website made with `HTML, CSS, and JavaScript`, hosted by ![](https://img.shields.io/badge/GitHub_Pages-informational?style=flat&logo=github&logoColor=white&color=1a1a1a&logoWidth=16)
+- Responsive website made with `HTML, CSS, and JavaScript`, hosted by [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-informational?style=flat&logo=github&logoColor=white&color=1a1a1a&logoWidth=16)](https://pages.github.com/)
 - Independently completed all research, design and code
 - Site updates continue as colleges post new information
 
 #### 👩‍💻 Personal website (in-progress) — my first React app
+
 - Now learning `React`, `Vercel`, some `Node` and possibly `Sass` to develop my personal site
 - Trying out wireframing and prototyping with `Figma`
 
-#### 📌 Hackathons, workshops, coding challenges...
+#### 📌 Hackathons, open source, coding workshops and challenges...
+
 - Working on my portfolio and fun side projects
 - Contributing to the coding community — getting involved in open source
-  - I've recently been helping out with **MDN Web Docs** (primarily [English content](https://github.com/mdn/content) and [translated content](https://github.com/mdn/translated-content))
+  - I've recently been helping out with **MDN Web Docs** (primarily [translated content](https://github.com/mdn/translated-content) and [English content](https://github.com/mdn/content))
 - Picking up new skills, mastering what I know and training my problem-solving/computational logic (have a look at some of my [repositories](https://github.com/cw118?tab=repositories)!)
 
 </details>
