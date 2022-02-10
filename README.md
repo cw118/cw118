@@ -8,9 +8,9 @@
 
 #### (*or...* Salut / 哈囉 / Привет 😊)
 
-### I'm a self-taught programmer, a high school student (for now), and I love pretty much anything to do with STEM and problem-solving.
+### I'm a self-taught programmer, a high school student, and I love pretty much anything to do with STEM and problem-solving.
 
-📚 I enjoy **learning new things, helping others, coding** (obviously), and occasionally **playing around with designs** (like my profile picture and header). Aside from programming, I also have experience in robotics, as well as 2D and 3D design.
+📚 I enjoy **learning new things, helping others, coding**, and occasionally **playing around with designs** (like my profile picture and header). Aside from programming, I also have experience in robotics, as well as 2D and 3D design.
 
 💬 *Other things I love: music, languages, figure skating*
 
