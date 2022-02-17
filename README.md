@@ -18,21 +18,21 @@
 
 ## 💻 Tech & Skill Stack
 
-<code><a href="https://docs.microsoft.com/en-us/cpp/c-language"><img height="40" alt="The C programming language" src="assets/icons/c.svg" title="C"></a></code>
-<code><a href="https://www.python.org/"><img height="40" alt="Python" src="assets/icons/python.svg" title="Python"></a></code>
-<code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img height="40" alt="The Flask framework" src="assets/icons/flask.svg" title="Flask"></a></code>
-<code><a href="https://www.w3schools.com/sql/sql_intro.asp"><img height="40" alt="SQL" src="assets/icons/sql.svg" title="SQL"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" alt="JavaScript" src="assets/icons/javascript.svg" title="JavaScript"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" alt="HTML" src="assets/icons/html.svg" title="HTML"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" alt="CSS" src="assets/icons/css.svg" title="CSS"></a></code>
-<code><a href="https://getbootstrap.com/"><img height="40" alt="The Bootstrap framework" src="assets/icons/bootstrap.svg" title="Bootstrap"></a></code>
-<code><a href="https://tailwindcss.com/"><img height="40" alt="Tailwind CSS framework" src="assets/icons/tailwindcss.svg" title="Tailwind CSS"></a></code>
-<code><a href="https://daringfireball.net/projects/markdown/"><img height="40" alt="Markdown" src="assets/icons/markdown.svg" title="Markdown"></a></code>
-<code><a href="https://git-scm.com/"><img height="40" alt="Git" src="assets/icons/git.svg" title="Git"></a></code>
-<code><a href="https://github.com/"><img height="40" alt="GitHub" src="assets/icons/GitHub-Mark.svg" title="GitHub"></a></code>
-<code><a href="https://code.visualstudio.com/"><img height="40" alt="Visual Studio Code" src="assets/icons/vscode.svg" title="VS Code"></a></code>
-<code><a href="https://www.autodesk.com/products/autocad/overview"><img height="40" alt="AutoCAD" src="assets/icons/autocad.png" title="AutoCAD"></a></code>
-<code><a href="https://www.canva.com"><img height="40" alt="Canva" src="assets/icons/canva.svg" title="Canva"></a></code>
+<code><a href="https://docs.microsoft.com/en-us/cpp/c-language"><img height="38" alt="The C programming language" src="assets/icons/c.svg" title="C"></a></code>
+<code><a href="https://www.python.org/"><img height="38" alt="Python" src="assets/icons/python.svg" title="Python"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img height="38" alt="The Flask framework" src="assets/icons/flask.svg" title="Flask"></a></code>
+<code><a href="https://www.w3schools.com/sql/sql_intro.asp"><img height="38" alt="SQL" src="assets/icons/sql.svg" title="SQL"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="38" alt="JavaScript" src="assets/icons/javascript.svg" title="JavaScript"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="38" alt="HTML" src="assets/icons/html.svg" title="HTML"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="38" alt="CSS" src="assets/icons/css.svg" title="CSS"></a></code>
+<code><a href="https://getbootstrap.com/"><img height="38" alt="The Bootstrap framework" src="assets/icons/bootstrap.svg" title="Bootstrap"></a></code>
+<code><a href="https://tailwindcss.com/"><img height="38" alt="Tailwind CSS framework" src="assets/icons/tailwindcss.svg" title="Tailwind CSS"></a></code>
+<code><a href="https://daringfireball.net/projects/markdown/"><img height="38" alt="Markdown" src="assets/icons/markdown.svg" title="Markdown"></a></code>
+<code><a href="https://git-scm.com/"><img height="38" alt="Git" src="assets/icons/git.svg" title="Git"></a></code>
+<code><a href="https://github.com/"><img height="38" alt="GitHub" src="assets/icons/GitHub-Mark.svg" title="GitHub"></a></code>
+<code><a href="https://code.visualstudio.com/"><img height="38" alt="Visual Studio Code" src="assets/icons/vscode.svg" title="VS Code"></a></code>
+<code><a href="https://www.autodesk.com/products/autocad/overview"><img height="38" alt="AutoCAD" src="assets/icons/autocad.png" title="AutoCAD"></a></code>
+<code><a href="https://www.canva.com"><img height="38" alt="Canva" src="assets/icons/canva.svg" title="Canva"></a></code>
 
 <details>
   <summary><em><strong>My stats:</strong></em></summary><br>
