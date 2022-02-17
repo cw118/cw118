@@ -1,0 +1,22 @@
+# Credits go to https://github.com/Platane/snk (go to the repo for more details)
+name: Generate snake game from contribution graph
+
+on:
+  # Runs every day at 3:10 UTC
+  schedule:
+    - cron: "10 */24 * * *"
+
+  # Allow the workflow to be triggered manually
+  workflow_dispatch:
+
+jobs:
+  generate-snk:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Generate a snake game SVG from my GitHub contributions graph
+      - name: Generate gh-contribution-snk.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: assets/gh-contribution-snk.svg

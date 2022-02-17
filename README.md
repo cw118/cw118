@@ -1,6 +1,6 @@
 # <a href="#"><img height="30px" alt="GIF of waving hand" src="assets/handwave.gif"></a> Hi, I'm Carolyn
 
-[![Header image for profile](assets/readme_header.png)](#)
+[![Header image for profile](assets/readme_header.png)](https://devpost.com/cw118)
 
 <!-- Contact information row here -->
 
@@ -13,6 +13,8 @@
 📚 I enjoy **learning new things, helping others, coding**, and occasionally **playing around with designs** (like my profile picture and header). Aside from programming, I also have experience in robotics, as well as 2D and 3D design.
 
 💬 *Other things I love: music, languages, figure skating*
+
+![Snake game from my GitHub contribution graph](assets/gh-contribution-snk.svg)
 
 ## 💻 Tech & Skill Stack
 
@@ -48,6 +50,7 @@
 [![C plus plus](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=success&logoWidth=18)](https://docs.microsoft.com/en-us/cpp/cpp)
 [![Bash](https://img.shields.io/badge/Shell/Scripting-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=089108&logoWidth=18)](https://www.gnu.org/software/bash/)
 [![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-informational?style=flat&logo=react&logoColor=white&color=0078d7&logoWidth=18)](https://reactjs.org/)
+[![NextJS](https://img.shields.io/badge/Frontend-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=0078d7&logoWidth=18)](https://nextjs.org/)
 [![NodeJS](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=0078d7&logoWidth=18)](https://nodejs.org/)
 [![Flutter](https://img.shields.io/badge/Mobile_apps-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=yellow&logoWidth=18)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Code/Mobile-Dart-informational?style=flat&logo=dart&logoColor=white&color=yellow&logoWidth=18)](https://dart.dev/)
@@ -68,10 +71,10 @@
 - Independently completed all research, design and code
 - Site updates continue as colleges post new information
 
-#### 👩‍💻 Personal website (in-progress) — my first React app
+#### 👩‍💻 Personal website (in-progress)
 
-- Now learning `React`, `Vercel`, some `Node` and possibly `Sass` to develop my personal site
-- Trying out wireframing and prototyping with `Figma`
+- Now learning `React`/`Next`, `Vercel`, and possibly `Sass` to develop my personal site
+- Designing + practicing wireframing and prototyping with `Figma`
 
 #### 📌 Hackathons, open source, coding workshops and challenges...
 
