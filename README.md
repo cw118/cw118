@@ -14,8 +14,6 @@
 
 💬 *Other things I love: music, languages, figure skating*
 
-![Snake game from my GitHub contribution graph](https://github.com/cw118/cw118/blob/output/gh-contribution-snk.svg)
-
 ## 💻 Tech & Skill Stack
 
 <code><a href="https://docs.microsoft.com/en-us/cpp/c-language"><img height="38" alt="The C programming language" src="assets/icons/c.svg" title="C"></a></code>
@@ -33,6 +31,8 @@
 <code><a href="https://code.visualstudio.com/"><img height="38" alt="Visual Studio Code" src="assets/icons/vscode.svg" title="VS Code"></a></code>
 <code><a href="https://www.autodesk.com/products/autocad/overview"><img height="38" alt="AutoCAD" src="assets/icons/autocad.png" title="AutoCAD"></a></code>
 <code><a href="https://www.canva.com"><img height="38" alt="Canva" src="assets/icons/canva.svg" title="Canva"></a></code>
+
+[![Snake game from my GitHub contribution graph](https://github.com/cw118/cw118/blob/output/gh-contribution-snk.svg)](https://github.com/Platane/snk)
 
 <details>
   <summary><em><strong>My stats:</strong></em></summary><br>
