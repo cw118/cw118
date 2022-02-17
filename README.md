@@ -14,7 +14,7 @@
 
 💬 *Other things I love: music, languages, figure skating*
 
-![Snake game from my GitHub contribution graph](assets/gh-contribution-snk.svg)
+![Snake game from my GitHub contribution graph](https://github.com/cw118/cw118/blob/output/gh-contribution-snk.svg)
 
 ## 💻 Tech & Skill Stack
 
