@@ -80,7 +80,7 @@
 
 - Working on my portfolio and fun side projects
 - Contributing to the coding community — getting involved in open source
-  - I've recently been helping out with **MDN Web Docs** (primarily [translated content](https://github.com/mdn/translated-content) and [English content](https://github.com/mdn/content))
+  - I've recently been helping out with **MDN Web Docs** (I'm a maintainer/reviewer for `l10n-fr` at [translated content](https://github.com/mdn/translated-content) and I also contribute to [English content](https://github.com/mdn/content))
 - Picking up new skills, mastering what I know and training my problem-solving/computational logic (have a look at some of my [repositories](https://github.com/cw118?tab=repositories)!)
 
 </details>
