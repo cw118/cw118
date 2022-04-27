@@ -1,6 +1,6 @@
 # <a href="#"><img height="30px" alt="GIF of waving hand" src="assets/handwave.gif"></a> Hi, I'm Carolyn
 
-[![Header image for profile](assets/readme_header.png)](https://devpost.com/cw118)
+[![Header image for profile](assets/profile_header.png)](assets/profile_header.png)
 
 <!-- Contact information row here -->
 
@@ -51,11 +51,11 @@
 [![Bash](https://img.shields.io/badge/Shell/Scripting-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=089108&logoWidth=18)](https://www.gnu.org/software/bash/)
 [![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-informational?style=flat&logo=react&logoColor=white&color=0078d7&logoWidth=18)](https://reactjs.org/)
 [![NextJS](https://img.shields.io/badge/Frontend-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=0078d7&logoWidth=18)](https://nextjs.org/)
-[![NodeJS](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=0078d7&logoWidth=18)](https://nodejs.org/)
+[![Sass](https://img.shields.io/badge/Frontend-Sass-informational?style=flat&logo=sass&logoColor=white&color=c96c96&logoWidth=18)](https://sass-lang.com/)
+[![NodeJS](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=00ace6&logoWidth=18)](https://nodejs.org/)
+[![Figma](https://img.shields.io/badge/Software-Figma-informational?style=flat&logo=figma&logoColor=white&color=ff45b4&logoWidth=18)](https://www.figma.com/)
 [![Flutter](https://img.shields.io/badge/Mobile_apps-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=yellow&logoWidth=18)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Code/Mobile-Dart-informational?style=flat&logo=dart&logoColor=white&color=yellow&logoWidth=18)](https://dart.dev/)
-[![Android Studio](https://img.shields.io/badge/Mobile/Tool-Android_Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=yellow&logoWidth=18)](https://developer.android.com/studio/intro)
-[![Figma](https://img.shields.io/badge/Software-Figma-informational?style=flat&logo=figma&logoColor=white&color=ff69b4&logoWidth=18)](https://www.figma.com/)
 
 ...and more!
 
@@ -63,6 +63,13 @@
 
 <details>
   <summary>What I'm up to 👀</summary>
+
+#### 📌 Open source, workshops, hackathons and challenges...
+
+- Contributing to the coding community — getting involved in open source
+  - I've recently been helping out with **MDN Web Docs** (I'm a maintainer/reviewer for `l10n-fr` at [translated-content](https://github.com/mdn/translated-content), I also contribute to [English content](https://github.com/mdn/content) and more)
+- Working on my portfolio and fun side projects
+- Picking up new skills, mastering what I know and training my problem-solving/computational logic (have a look at some of my [repositories](https://github.com/cw118?tab=repositories)!)
 
 #### [🎓 QUÉtudes-info: Guide to CEGEP](https://github.com/cw118/quetudesinfo) — my first website and large-scale coding project
 
@@ -73,14 +80,7 @@
 
 #### 👩‍💻 Personal website (in-progress)
 
-- Now learning `React`/`Next`, `Vercel`, and possibly `Sass` to develop my personal site
+- Now learning `React`/`Next`, `Vercel` and `Sass` to develop my personal site
 - Designing + practicing wireframing and prototyping with `Figma`
-
-#### 📌 Hackathons, open source, coding workshops and challenges...
-
-- Working on my portfolio and fun side projects
-- Contributing to the coding community — getting involved in open source
-  - I've recently been helping out with **MDN Web Docs** (I'm a maintainer/reviewer for `l10n-fr` at [translated content](https://github.com/mdn/translated-content) and I also contribute to [English content](https://github.com/mdn/content))
-- Picking up new skills, mastering what I know and training my problem-solving/computational logic (have a look at some of my [repositories](https://github.com/cw118?tab=repositories)!)
 
 </details>
