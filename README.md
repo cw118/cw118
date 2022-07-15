@@ -1,4 +1,4 @@
-# <a href="#"><img height="30px" alt="GIF of waving hand" src="assets/handwave.gif"></a> Hi, I'm Carolyn
+# <a href="#"><img width="38px" alt="GIF of waving hand" src="assets/handwave.gif"></a> Hi, I'm Carolyn
 
 [![Header image for profile](assets/profile_header.png)](assets/profile_header.png)
 
