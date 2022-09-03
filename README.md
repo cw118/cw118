@@ -1,4 +1,4 @@
-# <a href="https://www.carolynwu.me"><img width="38px" alt="GIF of waving hand" src="assets/handwave.gif"> Hi, I'm Carolyn</a>
+# <a href="https://www.carolynwu.me"><img width="38px" alt="GIF of waving hand" src="assets/handwave.gif"></a><a href="https://www.carolynwu.me"> Hi, I'm Carolyn</a>
 
 [![Header image for profile](assets/profile_header.png)](https://www.carolynwu.me)
 
