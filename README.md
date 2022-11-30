@@ -2,15 +2,11 @@
 
 [![Header image for profile](assets/profile_header.png)](https://www.carolynwu.me)
 
-### Hey there
+### Hey there!
 
 #### (*or...* Salut / 哈囉 / Привет 😊)
 
 ### I'm a self-taught programmer, a high school student, and I love pretty much anything to do with STEM and problem-solving
-
-📚 I enjoy **learning new things, helping others, coding**, and occasionally **playing around with designs** (like my profile picture and header). Aside from programming, I also have experience in robotics, as well as 2D and 3D design.
-
-💬 *Other things I love: music, languages, figure skating*
 
 ## 💻 Tech stack
 
@@ -47,15 +43,11 @@
 
 ## 🌱 What I'm learning
 
-✨ *Always learning, always growing* — here's what I'm learning, what I'd like to try out or would have to brush up on:
-
 [![C plus plus](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=success&logoWidth=18)](https://docs.microsoft.com/en-us/cpp/cpp)
 [![Bash](https://img.shields.io/badge/Shell/Scripting-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=089108&logoWidth=18)](https://www.gnu.org/software/bash/)
 [![NodeJS](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=00ace6&logoWidth=18)](https://nodejs.org/)
-[![Flutter](https://img.shields.io/badge/Mobile_apps-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=yellow&logoWidth=18)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Code/Mobile-Dart-informational?style=flat&logo=dart&logoColor=white&color=yellow&logoWidth=18)](https://dart.dev/)
 
-...and more!
+(...and more)
 
 ## 💼🔭 Projects and plans
 
@@ -67,7 +59,7 @@
 - Contributing to the coding community — getting involved in open source
   - I've recently been helping out with **MDN Web Docs** (I'm a maintainer/reviewer for `l10n-fr` at [translated-content](https://github.com/mdn/translated-content), I also contribute to [English content](https://github.com/mdn/content) and more)
 - Working on my portfolio and fun side projects
-- Picking up new skills, mastering what I know and training my problem-solving/computational logic (have a look at some of my [repositories](https://github.com/cw118?tab=repositories)!)
+- Picking up new skills, mastering what I know and training my problem-solving/computational logic (have a look at some of my [repositories](https://github.com/cw118?tab=repositories))
 
 #### [🎓 QUÉtudes-info: Guide to CEGEP](https://github.com/cw118/quetudesinfo) — my first website and large-scale coding project
 
