@@ -6,7 +6,7 @@
 
 #### (*or...* Salut / 哈囉 / Привет 😊)
 
-### I'm a self-taught programmer, a high school student, and I love pretty much anything to do with STEM and problem-solving
+### I'm a self-taught programmer, a high school student, and I love pretty much anything to do with STEM and problem-solving.
 
 ## 💻 Tech stack
 
@@ -46,8 +46,6 @@
 [![C plus plus](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=success&logoWidth=18)](https://docs.microsoft.com/en-us/cpp/cpp)
 [![Bash](https://img.shields.io/badge/Shell/Scripting-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=089108&logoWidth=18)](https://www.gnu.org/software/bash/)
 [![NodeJS](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=00ace6&logoWidth=18)](https://nodejs.org/)
-
-(...and more)
 
 ## 💼🔭 Projects and plans
 
