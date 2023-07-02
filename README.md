@@ -2,19 +2,20 @@
 
 [![Header image for profile](assets/profile_header.png)](https://www.carolynwu.me)
 
-### I'm a self-taught programmer who loves to learn and to solve problems.
+### I'm a self-taught programmer who loves learning and problem-solving.
 
 ## 💻 Tech stack
 
 <code><a href="https://docs.microsoft.com/en-us/cpp/c-language"><img height="38" alt="The C programming language" src="assets/icons/c.svg" title="C"></a></code>
 <code><a href="https://www.python.org/"><img height="38" alt="Python" src="assets/icons/python.svg" title="Python"></a></code>
-<code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img height="38" alt="The Flask framework" src="assets/icons/flask.svg" title="Flask"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/"><img height="38" alt="The Flask framework" src="assets/icons/flask.svg" title="Flask"></a></code>
 <code><a href="https://www.php.net/"><img height="38" alt="PHP" src="assets/icons/php.svg" title="PHP"></a></code>
-<code><img height="38" alt="SQL" src="assets/icons/sql.svg" title="SQL"></code>
+<code><img height="38" alt="MySQL" src="assets/icons/mysql.svg" title="MySQL"></code>
+<code><a href="https://wordpress.com/"><img height="38" alt="WordPress" src="assets/icons/wordpress.svg" title="WordPress"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="38" alt="JavaScript" src="assets/icons/javascript.svg" title="JavaScript"></a></code>
 <code><a href="https://svelte.dev/"><img height="38" alt="Svelte" src="assets/icons/svelte.svg" title="Svelte"></a></code>
-<code><a href="https://reactjs.org/"><img height="38" alt="ReactJS" src="assets/icons/react.svg" title="ReactJS"></a></code>
-<code><a href="https://nextjs.org/"><img height="38" alt="NextJS" src="assets/icons/nextjs.svg" title="NextJS"></a></code>
+<code><a href="https://reactjs.org/"><img height="38" alt="React.js" src="assets/icons/react.svg" title="React.js"></a></code>
+<code><a href="https://nextjs.org/"><img height="38" alt="Next.js" src="assets/icons/nextjs.svg" title="Next.js"></a></code>
 <code><a href="https://sass-lang.com/"><img height="38" alt="Sass" src="assets/icons/sass.svg" title="Sass"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="38" alt="HTML" src="assets/icons/html.svg" title="HTML"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="38" alt="CSS" src="assets/icons/css.svg" title="CSS"></a></code>
