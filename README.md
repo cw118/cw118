@@ -30,7 +30,11 @@
 <code><a href="https://www.dokuwiki.org/dokuwiki"><img height="38" alt="DokuWiki" src="assets/icons/dokuwiki.svg" title="DokuWiki"></a></code>
 <code><a href="https://www.autodesk.com/products/autocad/overview"><img height="38" alt="AutoCAD" src="assets/icons/autocad.png" title="AutoCAD"></a></code>
 
-[![Snake game from my GitHub contribution graph](https://github.com/cw118/cw118/blob/output/gh-contribution-snk.svg)](https://github.com/Platane/snk)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cw118/cw118/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cw118/cw118/blob/output/github-snake.svg" />
+  <a href="https://github.com/Platane/snk"><img alt="Snake game from my GitHub contribution graph" src="https://github.com/cw118/cw118/blob/output/github-snake.svg" /></a>
+</picture>
 
 <details>
   <summary><em><strong>My stats:</strong></em></summary><br>
