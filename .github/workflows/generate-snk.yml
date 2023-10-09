@@ -17,7 +17,7 @@ jobs:
     steps:
       # Generate a snake game SVG from my GitHub contributions graph
       - name: Generate gh-contribution-snk.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
 
@@ -33,8 +33,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push snake game SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
