@@ -1,8 +1,12 @@
 # <a href="https://www.carolynwu.me"><img width="38px" alt="GIF of waving hand" src="assets/handwave.gif"></a><a href="https://www.carolynwu.me"> Hi, I'm Carolyn</a>
 
-[![Header image for profile](assets/profile_header.png)](https://www.carolynwu.me)
-
 ### I'm a self-taught programmer who loves learning and problem-solving.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cw118/cw118/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cw118/cw118/blob/output/github-snake.svg" />
+  <a href="https://github.com/Platane/snk"><img alt="Snake game from my GitHub contribution graph" src="https://github.com/cw118/cw118/blob/output/github-snake.svg" /></a>
+</picture>
 
 ## 💻 Tech stack
 
@@ -27,34 +31,3 @@
 <code><a href="https://code.visualstudio.com/"><img height="38" alt="Visual Studio Code" src="assets/icons/vscode.svg" title="VS Code"></a></code>
 <code><a href="https://www.figma.com"><img height="38" alt="Figma" src="assets/icons/figma.svg" title="Figma"></a></code>
 <code><a href="https://www.canva.com"><img height="38" alt="Canva" src="assets/icons/canva.svg" title="Canva"></a></code>
-<code><a href="https://www.dokuwiki.org/dokuwiki"><img height="38" alt="DokuWiki" src="assets/icons/dokuwiki.svg" title="DokuWiki"></a></code>
-<code><a href="https://www.autodesk.com/products/autocad/overview"><img height="38" alt="AutoCAD" src="assets/icons/autocad.png" title="AutoCAD"></a></code>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cw118/cw118/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cw118/cw118/blob/output/github-snake.svg" />
-  <a href="https://github.com/Platane/snk"><img alt="Snake game from my GitHub contribution graph" src="https://github.com/cw118/cw118/blob/output/github-snake.svg" /></a>
-</picture>
-
-<details>
-  <summary><em><strong>My stats:</strong></em></summary><br>
-  
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cw118&show_icons=true&count_private=true&include_all_commits=true&custom_title=Carolyn's&nbsp;GitHub&nbsp;Stats&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![My profile views](https://komarev.com/ghpvc/?username=cw118)](https://github.com/antonkomarev/github-profile-views-counter)
-  
-</details>
-
-## 💼🔭 Projects and plans
-
-<details>
-  <summary>What I'm up to 👀</summary>
-
-#### 📌 Open source, workshops, hackathons and challenges
-
-- Contributing to the coding community — getting involved in open source
-  - I've recently been helping out with **MDN Web Docs** (I'm a maintainer/reviewer for `l10n-fr` at [translated-content](https://github.com/mdn/translated-content), I also contribute to [English content](https://github.com/mdn/content) and more)
-- Working on my portfolio and fun side projects
-- Picking up new skills, mastering what I know and training my problem-solving (have a look at some of my [repositories](https://github.com/cw118?tab=repositories))
-
-</details>
